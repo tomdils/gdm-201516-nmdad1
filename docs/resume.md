@@ -1,5 +1,3 @@
-[TOC]
-
 Resume
 =======
 ###Biografie
