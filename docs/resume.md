@@ -1,3 +1,5 @@
+[TOC]
+
 Resume
 =======
 ###Biografie
@@ -34,15 +36,5 @@ Geluidstechnieker: Urgent.fm (radiostation)
 	* Word
 	* Excel
 	* Powerpoint
-
-***
-
-
-###Contactinformatie
-
-*Tom Dils
-*Tel: 0494 89 59 73
-*Email: tom@dils.be
-*Twitter: TomDils1
 
 ***
