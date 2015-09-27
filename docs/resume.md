@@ -1,4 +1,3 @@
-[TOC]
 Resume
 =======
 ###Biografie
@@ -41,9 +40,9 @@ Geluidstechnieker: Urgent.fm (radiostation)
 
 ###Contactinformatie
 
-Tom Dils
-Tel: 0494 89 59 73
-Email: tom@dils.be
-Twitter: TomDils1
+*Tom Dils
+*Tel: 0494 89 59 73
+*Email: tom@dils.be
+*Twitter: TomDils1
 
 ***
